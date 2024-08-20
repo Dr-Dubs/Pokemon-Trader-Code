@@ -3,7 +3,7 @@ View: Looking into the port with the short edge down as shown.
 |  1  3  5  |
  \_2__4__6_/
 
-The pins are for the Arduino Uno R4 WiFi. You need 3 SPI pins and a ground.
+The pins are for the Arduino Uno R4 WiFi. If you do not have this specific model, search the documentation for the 3 SPI pins and a ground.
 
 1 - MOSI - 1kohm resistor - Pin 11
 2 - 
