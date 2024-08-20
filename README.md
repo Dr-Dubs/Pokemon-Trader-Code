@@ -1,6 +1,12 @@
 # Pokemon-Trader-Code
 
-This repository holds the key parts to use an Arduino as a trading partner for Generation 2 Pokemon games. The "ArduinoGen2" folder has the Arduino code, and the "Pokemon Builder Code" folder has the Python code.
+Use an Arduino as a trading partner for Generation 2 Pokemon games to complete the pokedex without breaking the bank! 
+
+# Required Software
+
+1. The two folders in this repository ("ArduinoGen2", "Pokemon Builder Code")
+2. Arduino IDE
+3. Something to run Python (I used Spyder in Anaconda)
 
 # Required Hardware
 
@@ -12,10 +18,7 @@ This repository holds the key parts to use an Arduino as a trading partner for G
 6. Pokemon Silver or Pokemon Gold
 7. GBC, GBA, or GBA SP
 
-# Required Software
-
-1. Arduino IDE
-2. Something to run Python (I used Spyder in Anaconda)
+Check the "Wiring_Notes.txt" file for wiring details. 
 
 # Usage
 
