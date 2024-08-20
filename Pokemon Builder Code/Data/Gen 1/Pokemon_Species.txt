@@ -1,0 +1,191 @@
+HEX	DEC	MS	Name	Types
+01	001	Rhydon	Rhydon	Ground	Rock
+02	002	Kangaskhan	Kangaskhan	Normal
+03	003	Nidoran♂	Nidoran♂	Poison
+04	004	Clefairy	Clefairy	Normal
+05	005	Spearow	Spearow	Normal	Flying
+06	006	Voltorb	Voltorb	Electric
+07	007	Nidoking	Nidoking	Poison	Ground
+08	008	Slowbro	Slowbro	Water	Psychic
+09	009	Ivysaur	Ivysaur	Grass	Poison
+0A	010	Exeggutor	Exeggutor	Grass	Psychic
+0B	011	Lickitung	Lickitung	Normal
+0C	012	Exeggcute	Exeggcute	Grass	Psychic
+0D	013	Grimer	Grimer	Poison
+0E	014	Gengar	Gengar	Ghost	Poison
+0F	015	Nidoran♀	Nidoran♀	Poison
+10	016	Nidoqueen	Nidoqueen	Poison	Ground
+11	017	Cubone	Cubone	Ground
+12	018	Rhyhorn	Rhyhorn	Ground	Rock
+13	019	Lapras	Lapras	Water	Ice
+14	020	Arcanine	Arcanine	Fire
+15	021	Mew	Mew	Psychic
+16	022	Gyarados	Gyarados	Water	Flying
+17	023	Shellder	Shellder	Water
+18	024	Tentacool	Tentacool	Water	Poison
+19	025	Gastly	Gastly	Ghost	Poison
+1A	026	Scyther	Scyther	Bug	Flying
+1B	027	Staryu	Staryu	Water
+1C	028	Blastoise	Blastoise	Water
+1D	029	Pinsir	Pinsir	Bug
+1E	030	Tangela	Tangela	Grass
+1F	031	MissingNo.	MissingNo. (Scizor)	Bird	Normal
+20	032	MissingNo.	MissingNo. (Shuckle)	Bird	Normal
+21	033	Growlithe	Growlithe	Fire
+22	034	Onix	Onix	Rock	Ground
+23	035	Fearow	Fearow	Normal	Flying
+24	036	Pidgey	Pidgey	Normal	Flying
+25	037	Slowpoke	Slowpoke	Water	Psychic
+26	038	Kadabra	Kadabra	Psychic
+27	039	Graveler	Graveler	Rock	Ground
+28	040	Chansey	Chansey	Normal
+29	041	Machoke	Machoke	Fighting
+2A	042	Mr. Mime	Mr. Mime	Psychic
+2B	043	Hitmonlee	Hitmonlee	Fighting
+2C	044	Hitmonchan	Hitmonchan	Fighting
+2D	045	Arbok	Arbok	Poison
+2E	046	Parasect	Parasect	Bug	Grass
+2F	047	Psyduck	Psyduck	Water
+30	048	Drowzee	Drowzee	Psychic
+31	049	Golem	Golem	Rock	Ground
+32	050	MissingNo.	MissingNo. (Heracross)	Bird	Normal
+33	051	Magmar	Magmar	Fire
+34	052	MissingNo.	MissingNo. (Ho-Oh)	Bird	Normal
+35	053	Electabuzz	Electabuzz	Electric
+36	054	Magneton	Magneton	Electric
+37	055	Koffing	Koffing	Poison
+38	056	MissingNo.	MissingNo. (Sneasel)	Bird	Normal
+39	057	Mankey	Mankey	Fighting
+3A	058	Seel	Seel	Water
+3B	059	Diglett	Diglett	Ground
+3C	060	Tauros	Tauros	Normal
+3D	061	MissingNo.	MissingNo. (Teddiursa)	Bird	Normal
+3E	062	MissingNo.	MissingNo. (Ursaring)	Bird	Normal
+3F	063	MissingNo.	MissingNo. (Slugma)	Bird	Normal
+40	064	Farfetch'd	Farfetch'd	Normal	Flying
+41	065	Venonat	Venonat	Bug	Poison
+42	066	Dragonite	Dragonite	Dragon	Flying
+43	067	MissingNo.	MissingNo. (Magcargo)	Bird	Normal
+44	068	MissingNo.	MissingNo. (Swinub)	Bird	Normal
+45	069	MissingNo.	MissingNo. (Piloswine)	Bird	Normal
+46	070	Doduo	Doduo	Normal	Flying
+47	071	Poliwag	Poliwag	Water
+48	072	Jynx	Jynx	Ice	Psychic
+49	073	Moltres	Moltres	Fire	Flying
+4A	074	Articuno	Articuno	Ice	Flying
+4B	075	Zapdos	Zapdos	Electric	Flying
+4C	076	Ditto	Ditto	Normal
+4D	077	Meowth	Meowth	Normal
+4E	078	Krabby	Krabby	Water
+4F	079	MissingNo.	MissingNo. (Corsola)	Bird	Normal
+50	080	MissingNo.	MissingNo. (Remoraid)	Bird	Normal
+51	081	MissingNo.	MissingNo. (Octillery)	Bird	Normal
+52	082	Vulpix	Vulpix	Fire
+53	083	Ninetales	Ninetales	Fire
+54	084	Pikachu	Pikachu	Electric
+55	085	Raichu	Raichu	Electric
+56	086	MissingNo.	MissingNo. (Delibird)	Bird	Normal
+57	087	MissingNo.	MissingNo. (Mantine)	Bird	Normal
+58	088	Dratini	Dratini	Dragon
+59	089	Dragonair	Dragonair	Dragon
+5A	090	Kabuto	Kabuto	Rock	Water
+5B	091	Kabutops	Kabutops	Rock	Water
+5C	092	Horsea	Horsea	Water
+5D	093	Seadra	Seadra	Water
+5E	094	MissingNo.	MissingNo. (Skarmory)	Bird	Normal
+5F	095	MissingNo.	MissingNo. (Houndour)	Bird	Normal
+60	096	Sandshrew	Sandshrew	Ground
+61	097	Sandslash	Sandslash	Ground
+62	098	Omanyte	Omanyte	Rock	Water
+63	099	Omastar	Omastar	Rock	Water
+64	100	Jigglypuff	Jigglypuff	Normal
+65	101	Wigglytuff	Wigglytuff	Normal
+66	102	Eevee	Eevee	Normal
+67	103	Flareon	Flareon	Fire
+68	104	Jolteon	Jolteon	Electric
+69	105	Vaporeon	Vaporeon	Water
+6A	106	Machop	Machop	Fighting
+6B	107	Zubat	Zubat	Poison	Flying
+6C	108	Ekans	Ekans	Poison
+6D	109	Paras	Paras	Bug	Grass
+6E	110	Poliwhirl	Poliwhirl	Water
+6F	111	Poliwrath	Poliwrath	Water	Fighting
+70	112	Weedle	Weedle	Bug	Poison
+71	113	Kakuna	Kakuna	Bug	Poison
+72	114	Beedrill	Beedrill	Bug	Poison
+73	115	MissingNo.	MissingNo. (Houndoom)	Bird	Normal
+74	116	Dodrio	Dodrio	Normal	Flying
+75	117	Primeape	Primeape	Fighting
+76	118	Dugtrio	Dugtrio	Ground
+77	119	Venomoth	Venomoth	Bug	Poison
+78	120	Dewgong	Dewgong	Water	Ice
+79	121	MissingNo.	MissingNo. (Kingdra)	Bird	Normal
+7A	122	MissingNo.	MissingNo. (Phanpy)	Bird	Normal
+7B	123	Caterpie	Caterpie	Bug
+7C	124	Metapod	Metapod	Bug
+7D	125	Butterfree	Butterfree	Bug	Flying
+7E	126	Machamp	Machamp	Fighting
+7F	127	MissingNo.	MissingNo. (Donphan)	Bird	Normal
+80	128	Golduck	Golduck	Water
+81	129	Hypno	Hypno	Psychic
+82	130	Golbat	Golbat	Poison	Flying
+83	131	Mewtwo	Mewtwo	Psychic
+84	132	Snorlax	Snorlax	Normal
+85	133	Magikarp	Magikarp	Water
+86	134	MissingNo.	MissingNo. (Porygon2)	Bird	Normal
+87	135	MissingNo.	MissingNo. (Stantler)	Bird	Normal
+88	136	Muk	Muk	Poison
+89	137	MissingNo.	MissingNo. (Smeargle)	Bird	Normal
+8A	138	Kingler	Kingler	Water
+8B	139	Cloyster	Cloyster	Water	Ice
+8C	140	MissingNo.	MissingNo. (Tyrogue)	Bird	Normal
+8D	141	Electrode	Electrode	Electric
+8E	142	Clefable	Clefable	Normal
+8F	143	Weezing	Weezing	Poison
+90	144	Persian	Persian	Normal
+91	145	Marowak	Marowak	Ground
+92	146	MissingNo.	MissingNo. (Hitmontop)	Bird	Normal
+93	147	Haunter	Haunter	Ghost	Poison
+94	148	Abra	Abra	Psychic
+95	149	Alakazam	Alakazam	Psychic
+96	150	Pidgeotto	Pidgeotto	Normal	Flying
+97	151	Pidgeot	Pidgeot	Normal	Flying
+98	152	Starmie	Starmie	Water	Psychic
+99	153	Bulbasaur	Bulbasaur	Grass	Poison
+9A	154	Venusaur	Venusaur	Grass	Poison
+9B	155	Tentacruel	Tentacruel	Water	Poison
+9C	156	MissingNo.	MissingNo. (Smoochum)	Bird	Normal
+9D	157	Goldeen	Goldeen	Water
+9E	158	Seaking	Seaking	Water
+9F	159	MissingNo.	MissingNo. (Elekid)	Bird	Normal
+A0	160	MissingNo.	MissingNo. (Magby)	Bird	Normal
+A1	161	MissingNo.	MissingNo. (Miltank)	Bird	Normal
+A2	162	MissingNo.	MissingNo. (Blissey)	Bird	Normal
+A3	163	Ponyta	Ponyta	Fire
+A4	164	Rapidash	Rapidash	Fire
+A5	165	Rattata	Rattata	Normal
+A6	166	Raticate	Raticate	Normal
+A7	167	Nidorino	Nidorino	Poison
+A8	168	Nidorina	Nidorina	Poison
+A9	169	Geodude	Geodude	Rock	Ground
+AA	170	Porygon	Porygon	Normal
+AB	171	Aerodactyl	Aerodactyl	Rock	Flying
+AC	172	MissingNo.	MissingNo. (Raikou)	Bird	Normal
+AD	173	Magnemite	Magnemite	Electric
+AE	174	MissingNo.	MissingNo. (Entei)	Bird	Normal
+AF	175	MissingNo.	MissingNo. (Suicune)	Bird	Normal
+B0	176	Charmander	Charmander	Fire
+B1	177	Squirtle	Squirtle	Water
+B2	178	Charmeleon	Charmeleon	Fire
+B3	179	Wartortle	Wartortle	Water
+B4	180	Charizard	Charizard	Fire	Flying
+B5	181	MissingNo.	MissingNo. (Larvitar)	Bird	Normal
+B6	182	MissingNo.	MissingNo. Kabutops Fossil (Pupitar)	Bird	Normal
+B7	183	MissingNo.	MissingNo. Aerodactyl Fossil (Tyranitar)	Bird	Normal
+B8	184	MissingNo.	MissingNo. Ghost (Lugia)	Bird	Normal
+B9	185	Oddish	Oddish	Grass	Poison
+BA	186	Gloom	Gloom	Grass	Poison
+BB	187	Vileplume	Vileplume	Grass	Poison
+BC	188	Bellsprout	Bellsprout	Grass	Poison
+BD	189	Weepinbell	Weepinbell	Grass	Poison
+BE	190	Victreebel	Victreebel	Grass	Poison

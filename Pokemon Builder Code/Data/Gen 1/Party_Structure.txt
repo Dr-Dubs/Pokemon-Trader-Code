@@ -1,0 +1,21 @@
+Offset	Contents	Size
+0x00	Number of Pokémon in party	1 Byte
+0x01	List of Party Pokémon Species Index values	7 Bytes
+0x08	1st Pokémon's structure	44 Bytes
+0x34	2nd Pokémon's structure	44 Bytes
+0x60	3rd Pokémon's structure	44 Bytes
+0x8C	4th Pokémon's structure	44 Bytes
+0xB8	5th Pokémon's structure	44 Bytes
+0xE4	6th Pokémon's structure	44 Bytes
+0x110	1st Pokémon's OT name	10 Bytes
+0x11B	2nd Pokémon's OT name	10 Bytes
+0x126	3rd Pokémon's OT name	10 Bytes
+0x131	4th Pokémon's OT name	10 Bytes
+0x13C	5th Pokémon's OT name	10 Bytes
+0x147	6th Pokémon's OT name	10 Bytes
+0x152	1st Pokémon's Nickname	10 Bytes
+0x15D	2nd Pokémon's Nickname	10 Bytes
+0x168	3rd Pokémon's Nickname	10 Bytes
+0x173	4th Pokémon's Nickname	10 Bytes
+0x17E	5th Pokémon's Nickname	10 Bytes
+0x189	6th Pokémon's Nickname	10 Bytes

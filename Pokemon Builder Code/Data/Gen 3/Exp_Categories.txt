@@ -1,0 +1,387 @@
+Dec	Sprite	Name	Category
+0001	Bulbasaur	Bulbasaur	Medium Slow
+0002	Ivysaur	Ivysaur	Medium Slow
+0003	Venusaur	Venusaur	Medium Slow
+0004	Charmander	Charmander	Medium Slow
+0005	Charmeleon	Charmeleon	Medium Slow
+0006	Charizard	Charizard	Medium Slow
+0007	Squirtle	Squirtle	Medium Slow
+0008	Wartortle	Wartortle	Medium Slow
+0009	Blastoise	Blastoise	Medium Slow
+0010	Caterpie	Caterpie	Medium Fast
+0011	Metapod	Metapod	Medium Fast
+0012	Butterfree	Butterfree	Medium Fast
+0013	Weedle	Weedle	Medium Fast
+0014	Kakuna	Kakuna	Medium Fast
+0015	Beedrill	Beedrill	Medium Fast
+0016	Pidgey	Pidgey	Medium Slow
+0017	Pidgeotto	Pidgeotto	Medium Slow
+0018	Pidgeot	Pidgeot	Medium Slow
+0019	Rattata	Rattata	Medium Fast
+0020	Raticate	Raticate	Medium Fast
+0021	Spearow	Spearow	Medium Fast
+0022	Fearow	Fearow	Medium Fast
+0023	Ekans	Ekans	Medium Fast
+0024	Arbok	Arbok	Medium Fast
+0025	Pikachu	Pikachu	Medium Fast
+0026	Raichu	Raichu	Medium Fast
+0027	Sandshrew	Sandshrew	Medium Fast
+0028	Sandslash	Sandslash	Medium Fast
+0029	Nidoran♀	Nidoran♀	Medium Slow
+0030	Nidorina	Nidorina	Medium Slow
+0031	Nidoqueen	Nidoqueen	Medium Slow
+0032	Nidoran♂	Nidoran♂	Medium Slow
+0033	Nidorino	Nidorino	Medium Slow
+0034	Nidoking	Nidoking	Medium Slow
+0035	Clefairy	Clefairy	Fast
+0036	Clefable	Clefable	Fast
+0037	Vulpix	Vulpix	Medium Fast
+0038	Ninetales	Ninetales	Medium Fast
+0039	Jigglypuff	Jigglypuff	Fast
+0040	Wigglytuff	Wigglytuff	Fast
+0041	Zubat	Zubat	Medium Fast
+0042	Golbat	Golbat	Medium Fast
+0043	Oddish	Oddish	Medium Slow
+0044	Gloom	Gloom	Medium Slow
+0045	Vileplume	Vileplume	Medium Slow
+0046	Paras	Paras	Medium Fast
+0047	Parasect	Parasect	Medium Fast
+0048	Venonat	Venonat	Medium Fast
+0049	Venomoth	Venomoth	Medium Fast
+0050	Diglett	Diglett	Medium Fast
+0051	Dugtrio	Dugtrio	Medium Fast
+0052	Meowth	Meowth	Medium Fast
+0053	Persian	Persian	Medium Fast
+0054	Psyduck	Psyduck	Medium Fast
+0055	Golduck	Golduck	Medium Fast
+0056	Mankey	Mankey	Medium Fast
+0057	Primeape	Primeape	Medium Fast
+0058	Growlithe	Growlithe	Slow
+0059	Arcanine	Arcanine	Slow
+0060	Poliwag	Poliwag	Medium Slow
+0061	Poliwhirl	Poliwhirl	Medium Slow
+0062	Poliwrath	Poliwrath	Medium Slow
+0063	Abra	Abra	Medium Slow
+0064	Kadabra	Kadabra	Medium Slow
+0065	Alakazam	Alakazam	Medium Slow
+0066	Machop	Machop	Medium Slow
+0067	Machoke	Machoke	Medium Slow
+0068	Machamp	Machamp	Medium Slow
+0069	Bellsprout	Bellsprout	Medium Slow
+0070	Weepinbell	Weepinbell	Medium Slow
+0071	Victreebel	Victreebel	Medium Slow
+0072	Tentacool	Tentacool	Slow
+0073	Tentacruel	Tentacruel	Slow
+0074	Geodude	Geodude	Medium Slow
+0075	Graveler	Graveler	Medium Slow
+0076	Golem	Golem	Medium Slow
+0077	Ponyta	Ponyta	Medium Fast
+0078	Rapidash	Rapidash	Medium Fast
+0079	Slowpoke	Slowpoke	Medium Fast
+0080	Slowbro	Slowbro	Medium Fast
+0081	Magnemite	Magnemite	Medium Fast
+0082	Magneton	Magneton	Medium Fast
+0083	Farfetch'd	Farfetch'd	Medium Fast
+0084	Doduo	Doduo	Medium Fast
+0085	Dodrio	Dodrio	Medium Fast
+0086	Seel	Seel	Medium Fast
+0087	Dewgong	Dewgong	Medium Fast
+0088	Grimer	Grimer	Medium Fast
+0089	Muk	Muk	Medium Fast
+0090	Shellder	Shellder	Slow
+0091	Cloyster	Cloyster	Slow
+0092	Gastly	Gastly	Medium Slow
+0093	Haunter	Haunter	Medium Slow
+0094	Gengar	Gengar	Medium Slow
+0095	Onix	Onix	Medium Fast
+0096	Drowzee	Drowzee	Medium Fast
+0097	Hypno	Hypno	Medium Fast
+0098	Krabby	Krabby	Medium Fast
+0099	Kingler	Kingler	Medium Fast
+0100	Voltorb	Voltorb	Medium Fast
+0101	Electrode	Electrode	Medium Fast
+0102	Exeggcute	Exeggcute	Slow
+0103	Exeggutor	Exeggutor	Slow
+0104	Cubone	Cubone	Medium Fast
+0105	Marowak	Marowak	Medium Fast
+0106	Hitmonlee	Hitmonlee	Medium Fast
+0107	Hitmonchan	Hitmonchan	Medium Fast
+0108	Lickitung	Lickitung	Medium Fast
+0109	Koffing	Koffing	Medium Fast
+0110	Weezing	Weezing	Medium Fast
+0111	Rhyhorn	Rhyhorn	Slow
+0112	Rhydon	Rhydon	Slow
+0113	Chansey	Chansey	Fast
+0114	Tangela	Tangela	Medium Fast
+0115	Kangaskhan	Kangaskhan	Medium Fast
+0116	Horsea	Horsea	Medium Fast
+0117	Seadra	Seadra	Medium Fast
+0118	Goldeen	Goldeen	Medium Fast
+0119	Seaking	Seaking	Medium Fast
+0120	Staryu	Staryu	Slow
+0121	Starmie	Starmie	Slow
+0122	Mr. Mime	Mr. Mime	Medium Fast
+0123	Scyther	Scyther	Medium Fast
+0124	Jynx	Jynx	Medium Fast
+0125	Electabuzz	Electabuzz	Medium Fast
+0126	Magmar	Magmar	Medium Fast
+0127	Pinsir	Pinsir	Slow
+0128	Tauros	Tauros	Slow
+0129	Magikarp	Magikarp	Slow
+0130	Gyarados	Gyarados	Slow
+0131	Lapras	Lapras	Slow
+0132	Ditto	Ditto	Medium Fast
+0133	Eevee	Eevee	Medium Fast
+0134	Vaporeon	Vaporeon	Medium Fast
+0135	Jolteon	Jolteon	Medium Fast
+0136	Flareon	Flareon	Medium Fast
+0137	Porygon	Porygon	Medium Fast
+0138	Omanyte	Omanyte	Medium Fast
+0139	Omastar	Omastar	Medium Fast
+0140	Kabuto	Kabuto	Medium Fast
+0141	Kabutops	Kabutops	Medium Fast
+0142	Aerodactyl	Aerodactyl	Slow
+0143	Snorlax	Snorlax	Slow
+0144	Articuno	Articuno	Slow
+0145	Zapdos	Zapdos	Slow
+0146	Moltres	Moltres	Slow
+0147	Dratini	Dratini	Slow
+0148	Dragonair	Dragonair	Slow
+0149	Dragonite	Dragonite	Slow
+0150	Mewtwo	Mewtwo	Slow
+0151	Mew	Mew	Medium Slow
+0152	Chikorita	Chikorita	Medium Slow
+0153	Bayleef	Bayleef	Medium Slow
+0154	Meganium	Meganium	Medium Slow
+0155	Cyndaquil	Cyndaquil	Medium Slow
+0156	Quilava	Quilava	Medium Slow
+0157	Typhlosion	Typhlosion	Medium Slow
+0158	Totodile	Totodile	Medium Slow
+0159	Croconaw	Croconaw	Medium Slow
+0160	Feraligatr	Feraligatr	Medium Slow
+0161	Sentret	Sentret	Medium Fast
+0162	Furret	Furret	Medium Fast
+0163	Hoothoot	Hoothoot	Medium Fast
+0164	Noctowl	Noctowl	Medium Fast
+0165	Ledyba	Ledyba	Fast
+0166	Ledian	Ledian	Fast
+0167	Spinarak	Spinarak	Fast
+0168	Ariados	Ariados	Fast
+0169	Crobat	Crobat	Medium Fast
+0170	Chinchou	Chinchou	Slow
+0171	Lanturn	Lanturn	Slow
+0172	Pichu	Pichu	Medium Fast
+0173	Cleffa	Cleffa	Fast
+0174	Igglybuff	Igglybuff	Fast
+0175	Togepi	Togepi	Fast
+0176	Togetic	Togetic	Fast
+0177	Natu	Natu	Medium Fast
+0178	Xatu	Xatu	Medium Fast
+0179	Mareep	Mareep	Medium Slow
+0180	Flaaffy	Flaaffy	Medium Slow
+0181	Ampharos	Ampharos	Medium Slow
+0182	Bellossom	Bellossom	Medium Slow
+0183	Marill	Marill	Fast
+0184	Azumarill	Azumarill	Fast
+0185	Sudowoodo	Sudowoodo	Medium Fast
+0186	Politoed	Politoed	Medium Slow
+0187	Hoppip	Hoppip	Medium Slow
+0188	Skiploom	Skiploom	Medium Slow
+0189	Jumpluff	Jumpluff	Medium Slow
+0190	Aipom	Aipom	Fast
+0191	Sunkern	Sunkern	Medium Slow
+0192	Sunflora	Sunflora	Medium Slow
+0193	Yanma	Yanma	Medium Fast
+0194	Wooper	Wooper	Medium Fast
+0195	Quagsire	Quagsire	Medium Fast
+0196	Espeon	Espeon	Medium Fast
+0197	Umbreon	Umbreon	Medium Fast
+0198	Murkrow	Murkrow	Medium Slow
+0199	Slowking	Slowking	Medium Fast
+0200	Misdreavus	Misdreavus	Fast
+0201	Unown	Unown	Medium Fast
+0202	Wobbuffet	Wobbuffet	Medium Fast
+0203	Girafarig	Girafarig	Medium Fast
+0204	Pineco	Pineco	Medium Fast
+0205	Forretress	Forretress	Medium Fast
+0206	Dunsparce	Dunsparce	Medium Fast
+0207	Gligar	Gligar	Medium Slow
+0208	Steelix	Steelix	Medium Fast
+0209	Snubbull	Snubbull	Fast
+0210	Granbull	Granbull	Fast
+0211	Qwilfish	Qwilfish	Medium Fast
+0212	Scizor	Scizor	Medium Fast
+0213	Shuckle	Shuckle	Medium Slow
+0214	Heracross	Heracross	Slow
+0215	Sneasel	Sneasel	Medium Slow
+0216	Teddiursa	Teddiursa	Medium Fast
+0217	Ursaring	Ursaring	Medium Fast
+0218	Slugma	Slugma	Medium Fast
+0219	Magcargo	Magcargo	Medium Fast
+0220	Swinub	Swinub	Slow
+0221	Piloswine	Piloswine	Slow
+0222	Corsola	Corsola	Fast
+0223	Remoraid	Remoraid	Medium Fast
+0224	Octillery	Octillery	Medium Fast
+0225	Delibird	Delibird	Fast
+0226	Mantine	Mantine	Slow
+0227	Skarmory	Skarmory	Slow
+0228	Houndour	Houndour	Slow
+0229	Houndoom	Houndoom	Slow
+0230	Kingdra	Kingdra	Medium Fast
+0231	Phanpy	Phanpy	Medium Fast
+0232	Donphan	Donphan	Medium Fast
+0233	Porygon2	Porygon2	Medium Fast
+0234	Stantler	Stantler	Slow
+0235	Smeargle	Smeargle	Fast
+0236	Tyrogue	Tyrogue	Medium Fast
+0237	Hitmontop	Hitmontop	Medium Fast
+0238	Smoochum	Smoochum	Medium Fast
+0239	Elekid	Elekid	Medium Fast
+0240	Magby	Magby	Medium Fast
+0241	Miltank	Miltank	Slow
+0242	Blissey	Blissey	Fast
+0243	Raikou	Raikou	Slow
+0244	Entei	Entei	Slow
+0245	Suicune	Suicune	Slow
+0246	Larvitar	Larvitar	Slow
+0247	Pupitar	Pupitar	Slow
+0248	Tyranitar	Tyranitar	Slow
+0249	Lugia	Lugia	Slow
+0250	Ho-Oh	Ho-Oh	Slow
+0251	Celebi	Celebi	Medium Slow
+0252	Treecko	Treecko	Medium Slow
+0253	Grovyle	Grovyle	Medium Slow
+0254	Sceptile	Sceptile	Medium Slow
+0255	Torchic	Torchic	Medium Slow
+0256	Combusken	Combusken	Medium Slow
+0257	Blaziken	Blaziken	Medium Slow
+0258	Mudkip	Mudkip	Medium Slow
+0259	Marshtomp	Marshtomp	Medium Slow
+0260	Swampert	Swampert	Medium Slow
+0261	Poochyena	Poochyena	Medium Fast
+0262	Mightyena	Mightyena	Medium Fast
+0263	Zigzagoon	Zigzagoon	Medium Fast
+0264	Linoone	Linoone	Medium Fast
+0265	Wurmple	Wurmple	Medium Fast
+0266	Silcoon	Silcoon	Medium Fast
+0267	Beautifly	Beautifly	Medium Fast
+0268	Cascoon	Cascoon	Medium Fast
+0269	Dustox	Dustox	Medium Fast
+0270	Lotad	Lotad	Medium Slow
+0271	Lombre	Lombre	Medium Slow
+0272	Ludicolo	Ludicolo	Medium Slow
+0273	Seedot	Seedot	Medium Slow
+0274	Nuzleaf	Nuzleaf	Medium Slow
+0275	Shiftry	Shiftry	Medium Slow
+0276	Taillow	Taillow	Medium Slow
+0277	Swellow	Swellow	Medium Slow
+0278	Wingull	Wingull	Medium Fast
+0279	Pelipper	Pelipper	Medium Fast
+0280	Ralts	Ralts	Slow
+0281	Kirlia	Kirlia	Slow
+0282	Gardevoir	Gardevoir	Slow
+0283	Surskit	Surskit	Medium Fast
+0284	Masquerain	Masquerain	Medium Fast
+0285	Shroomish	Shroomish	Fluctuating
+0286	Breloom	Breloom	Fluctuating
+0287	Slakoth	Slakoth	Slow
+0288	Vigoroth	Vigoroth	Slow
+0289	Slaking	Slaking	Slow
+0290	Nincada	Nincada	Erratic
+0291	Ninjask	Ninjask	Erratic
+0292	Shedinja	Shedinja	Erratic
+0293	Whismur	Whismur	Medium Slow
+0294	Loudred	Loudred	Medium Slow
+0295	Exploud	Exploud	Medium Slow
+0296	Makuhita	Makuhita	Fluctuating
+0297	Hariyama	Hariyama	Fluctuating
+0298	Azurill	Azurill	Fast
+0299	Nosepass	Nosepass	Medium Fast
+0300	Skitty	Skitty	Fast
+0301	Delcatty	Delcatty	Fast
+0302	Sableye	Sableye	Medium Slow
+0303	Mawile	Mawile	Fast
+0304	Aron	Aron	Slow
+0305	Lairon	Lairon	Slow
+0306	Aggron	Aggron	Slow
+0307	Meditite	Meditite	Medium Fast
+0308	Medicham	Medicham	Medium Fast
+0309	Electrike	Electrike	Slow
+0310	Manectric	Manectric	Slow
+0311	Plusle	Plusle	Medium Fast
+0312	Minun	Minun	Medium Fast
+0313	Volbeat	Volbeat	Erratic
+0314	Illumise	Illumise	Fluctuating
+0315	Roselia	Roselia	Medium Slow
+0316	Gulpin	Gulpin	Fluctuating
+0317	Swalot	Swalot	Fluctuating
+0318	Carvanha	Carvanha	Slow
+0319	Sharpedo	Sharpedo	Slow
+0320	Wailmer	Wailmer	Fluctuating
+0321	Wailord	Wailord	Fluctuating
+0322	Numel	Numel	Medium Fast
+0323	Camerupt	Camerupt	Medium Fast
+0324	Torkoal	Torkoal	Medium Fast
+0325	Spoink	Spoink	Fast
+0326	Grumpig	Grumpig	Fast
+0327	Spinda	Spinda	Fast
+0328	Trapinch	Trapinch	Medium Slow
+0329	Vibrava	Vibrava	Medium Slow
+0330	Flygon	Flygon	Medium Slow
+0331	Cacnea	Cacnea	Medium Slow
+0332	Cacturne	Cacturne	Medium Slow
+0333	Swablu	Swablu	Erratic
+0334	Altaria	Altaria	Erratic
+0335	Zangoose	Zangoose	Erratic
+0336	Seviper	Seviper	Fluctuating
+0337	Lunatone	Lunatone	Fast
+0338	Solrock	Solrock	Fast
+0339	Barboach	Barboach	Medium Fast
+0340	Whiscash	Whiscash	Medium Fast
+0341	Corphish	Corphish	Fluctuating
+0342	Crawdaunt	Crawdaunt	Fluctuating
+0343	Baltoy	Baltoy	Medium Fast
+0344	Claydol	Claydol	Medium Fast
+0345	Lileep	Lileep	Erratic
+0346	Cradily	Cradily	Erratic
+0347	Anorith	Anorith	Erratic
+0348	Armaldo	Armaldo	Erratic
+0349	Feebas	Feebas	Erratic
+0350	Milotic	Milotic	Erratic
+0351	Castform	Castform	Medium Fast
+0352	Kecleon	Kecleon	Medium Slow
+0353	Shuppet	Shuppet	Fast
+0354	Banette	Banette	Fast
+0355	Duskull	Duskull	Fast
+0356	Dusclops	Dusclops	Fast
+0357	Tropius	Tropius	Slow
+0358	Chimecho	Chimecho	Fast
+0359	Absol	Absol	Medium Slow
+0360	Wynaut	Wynaut	Medium Fast
+0361	Snorunt	Snorunt	Medium Fast
+0362	Glalie	Glalie	Medium Fast
+0363	Spheal	Spheal	Medium Slow
+0364	Sealeo	Sealeo	Medium Slow
+0365	Walrein	Walrein	Medium Slow
+0366	Clamperl	Clamperl	Erratic
+0367	Huntail	Huntail	Erratic
+0368	Gorebyss	Gorebyss	Erratic
+0369	Relicanth	Relicanth	Slow
+0370	Luvdisc	Luvdisc	Fast
+0371	Bagon	Bagon	Slow
+0372	Shelgon	Shelgon	Slow
+0373	Salamence	Salamence	Slow
+0374	Beldum	Beldum	Slow
+0375	Metang	Metang	Slow
+0376	Metagross	Metagross	Slow
+0377	Regirock	Regirock	Slow
+0378	Regice	Regice	Slow
+0379	Registeel	Registeel	Slow
+0380	Latias	Latias	Slow
+0381	Latios	Latios	Slow
+0382	Kyogre	Kyogre	Slow
+0383	Groudon	Groudon	Slow
+0384	Rayquaza	Rayquaza	Slow
+0385	Jirachi	Jirachi	Slow
+0386	Deoxys	Deoxys	Slow

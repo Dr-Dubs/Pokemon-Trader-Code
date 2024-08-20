@@ -1,0 +1,257 @@
+DEC	HEX	ITEM	Image	Bag Pocket
+000	0x00	?	Bag Items pocket icon.png	Items pocket
+001	0x01	Master Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+002	0x02	Ultra Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+003	0x03	BrightPowder	Bag Items pocket icon.png	Items pocket
+004	0x04	Great Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+005	0x05	Poké Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+006	0x06	Teru-sama	Bag Items pocket icon.png	Items pocket
+007	0x07	Bicycle	Bag Key items pocket icon.png	Key items pocket
+008	0x08	Moon Stone	Bag Items pocket icon.png	Items pocket
+009	0x09	Antidote	Bag Items pocket icon.png	Items pocket
+010	0x0A	Burn Heal	Bag Items pocket icon.png	Items pocket
+011	0x0B	Ice Heal	Bag Items pocket icon.png	Items pocket
+012	0x0C	Awakening	Bag Items pocket icon.png	Items pocket
+013	0x0D	Parlyz Heal	Bag Items pocket icon.png	Items pocket
+014	0x0E	Full Restore	Bag Items pocket icon.png	Items pocket
+015	0x0F	Max Potion	Bag Items pocket icon.png	Items pocket
+016	0x10	Hyper Potion	Bag Items pocket icon.png	Items pocket
+017	0x11	Super Potion	Bag Items pocket icon.png	Items pocket
+018	0x12	Potion	Bag Items pocket icon.png	Items pocket
+019	0x13	Escape Rope	Bag Items pocket icon.png	Items pocket
+020	0x14	Repel	Bag Items pocket icon.png	Items pocket
+021	0x15	Max Elixer	Bag Items pocket icon.png	Items pocket
+022	0x16	Fire Stone	Bag Items pocket icon.png	Items pocket
+023	0x17	Thunderstone	Bag Items pocket icon.png	Items pocket
+024	0x18	Water Stone	Bag Items pocket icon.png	Items pocket
+025	0x19	Teru-sama	Bag Items pocket icon.png	Items pocket
+026	0x1A	HP Up	Bag Items pocket icon.png	Items pocket
+027	0x1B	Protein	Bag Items pocket icon.png	Items pocket
+028	0x1C	Iron	Bag Items pocket icon.png	Items pocket
+029	0x1D	Carbos	Bag Items pocket icon.png	Items pocket
+030	0x1E	Lucky Punch	Bag Items pocket icon.png	Items pocket
+031	0x1F	Calcium	Bag Items pocket icon.png	Items pocket
+032	0x20	Rare Candy	Bag Items pocket icon.png	Items pocket
+033	0x21	X Accuracy	Bag Items pocket icon.png	Items pocket
+034	0x22	Leaf Stone	Bag Items pocket icon.png	Items pocket
+035	0x23	Metal Powder	Bag Items pocket icon.png	Items pocket
+036	0x24	Nugget	Bag Items pocket icon.png	Items pocket
+037	0x25	Poké Doll	Bag Items pocket icon.png	Items pocket
+038	0x26	Full Heal	Bag Items pocket icon.png	Items pocket
+039	0x27	Revive	Bag Items pocket icon.png	Items pocket
+040	0x28	Max Revive	Bag Items pocket icon.png	Items pocket
+041	0x29	Guard Spec.	Bag Items pocket icon.png	Items pocket
+042	0x2A	Super Repel	Bag Items pocket icon.png	Items pocket
+043	0x2B	Max Repel	Bag Items pocket icon.png	Items pocket
+044	0x2C	Dire Hit	Bag Items pocket icon.png	Items pocket
+045	0x2D	Teru-sama	Bag Items pocket icon.png	Items pocket
+046	0x2E	Fresh Water	Bag Items pocket icon.png	Items pocket
+047	0x2F	Soda Pop	Bag Items pocket icon.png	Items pocket
+048	0x30	Lemonade	Bag Items pocket icon.png	Items pocket
+049	0x31	X Attack	Bag Items pocket icon.png	Items pocket
+050	0x32	Teru-sama	Bag Items pocket icon.png	Items pocket
+051	0x33	X Defend	Bag Items pocket icon.png	Items pocket
+052	0x34	X Speed	Bag Items pocket icon.png	Items pocket
+053	0x35	X Special	Bag Items pocket icon.png	Items pocket
+054	0x36	Coin Case	Bag Key items pocket icon.png	Key items pocket
+055	0x37	Itemfinder	Bag Key items pocket icon.png	Key items pocket
+056	0x38	Teru-sama	Bag Items pocket icon.png	Items pocket
+057	0x39	Exp.Share	Bag Items pocket icon.png	Items pocket
+058	0x3A	Old Rod	Bag Key items pocket icon.png	Key items pocket
+059	0x3B	Good Rod	Bag Key items pocket icon.png	Key items pocket
+060	0x3C	Silver Leaf	Bag Items pocket icon.png	Items pocket
+061	0x3D	Super Rod	Bag Key items pocket icon.png	Key items pocket
+062	0x3E	PP Up	Bag Items pocket icon.png	Items pocket
+063	0x3F	Ether	Bag Items pocket icon.png	Items pocket
+064	0x40	Max Ether	Bag Items pocket icon.png	Items pocket
+065	0x41	Elixer	Bag Items pocket icon.png	Items pocket
+066	0x42	Red Scale	Bag Key items pocket icon.png	Key items pocket
+067	0x43	SecretPotion	Bag Key items pocket icon.png	Key items pocket
+068	0x44	S.S. Ticket	Bag Key items pocket icon.png	Key items pocket
+069	0x45	Mystery Egg	Bag Key items pocket icon.png	Key items pocket
+070	0x46	Clear Bell*	Bag Key items pocket icon.png	Key items pocket
+071	0x47	Silver Wing	Bag Key items pocket icon.png	Key items pocket
+072	0x48	Moomoo Milk	Bag Items pocket icon.png	Items pocket
+073	0x49	Quick Claw	Bag Items pocket icon.png	Items pocket
+074	0x4A	PSNCureBerry	Bag Items pocket icon.png	Items pocket
+075	0x4B	Gold Leaf	Bag Items pocket icon.png	Items pocket
+076	0x4C	Soft Sand	Bag Items pocket icon.png	Items pocket
+077	0x4D	Sharp Beak	Bag Items pocket icon.png	Items pocket
+078	0x4E	PRZCureBerry	Bag Items pocket icon.png	Items pocket
+079	0x4F	Burnt Berry	Bag Items pocket icon.png	Items pocket
+080	0x50	Ice Berry	Bag Items pocket icon.png	Items pocket
+081	0x51	Poison Barb	Bag Items pocket icon.png	Items pocket
+082	0x52	King's Rock	Bag Items pocket icon.png	Items pocket
+083	0x53	Bitter Berry	Bag Items pocket icon.png	Items pocket
+084	0x54	Mint Berry	Bag Items pocket icon.png	Items pocket
+085	0x55	Red Apricorn	Bag Items pocket icon.png	Items pocket
+086	0x56	TinyMushroom	Bag Items pocket icon.png	Items pocket
+087	0x57	Big Mushroom	Bag Items pocket icon.png	Items pocket
+088	0x58	SilverPowder	Bag Items pocket icon.png	Items pocket
+089	0x59	Blu Apricorn	Bag Items pocket icon.png	Items pocket
+090	0x5A	Teru-sama	Bag Items pocket icon.png	Items pocket
+091	0x5B	Amulet Coin	Bag Items pocket icon.png	Items pocket
+092	0x5C	Ylw Apricorn	Bag Items pocket icon.png	Items pocket
+093	0x5D	Grn Apricorn	Bag Items pocket icon.png	Items pocket
+094	0x5E	Cleanse Tag	Bag Items pocket icon.png	Items pocket
+095	0x5F	Mystic Water	Bag Items pocket icon.png	Items pocket
+096	0x60	TwistedSpoon	Bag Items pocket icon.png	Items pocket
+097	0x61	Wht Apricorn	Bag Items pocket icon.png	Items pocket
+098	0x62	Blackbelt	Bag Items pocket icon.png	Items pocket
+099	0x63	Blk Apricorn	Bag Items pocket icon.png	Items pocket
+100	0x64	Teru-sama	Bag Items pocket icon.png	Items pocket
+101	0x65	Pnk Apricorn	Bag Items pocket icon.png	Items pocket
+102	0x66	BlackGlasses	Bag Items pocket icon.png	Items pocket
+103	0x67	SlowpokeTail	Bag Items pocket icon.png	Items pocket
+104	0x68	Pink Bow	Bag Items pocket icon.png	Items pocket
+105	0x69	Stick	Bag Items pocket icon.png	Items pocket
+106	0x6A	Smoke Ball	Bag Items pocket icon.png	Items pocket
+107	0x6B	NeverMeltIce	Bag Items pocket icon.png	Items pocket
+108	0x6C	Magnet	Bag Items pocket icon.png	Items pocket
+109	0x6D	MiracleBerry	Bag Items pocket icon.png	Items pocket
+110	0x6E	Pearl	Bag Items pocket icon.png	Items pocket
+111	0x6F	Big Pearl	Bag Items pocket icon.png	Items pocket
+112	0x70	Everstone	Bag Items pocket icon.png	Items pocket
+113	0x71	Spell Tag	Bag Items pocket icon.png	Items pocket
+114	0x72	RageCandyBar	Bag Items pocket icon.png	Items pocket
+115	0x73	GS Ball*	Bag Key items pocket icon.png	Key items pocket
+116	0x74	Blue Card*	Bag Key items pocket icon.png	Key items pocket
+117	0x75	Miracle Seed	Bag Items pocket icon.png	Items pocket
+118	0x76	Thick Club	Bag Items pocket icon.png	Items pocket
+119	0x77	Focus Band	Bag Items pocket icon.png	Items pocket
+120	0x78	Teru-sama	Bag Items pocket icon.png	Items pocket
+121	0x79	EnergyPowder	Bag Items pocket icon.png	Items pocket
+122	0x7A	Energy Root	Bag Items pocket icon.png	Items pocket
+123	0x7B	Heal Powder	Bag Items pocket icon.png	Items pocket
+124	0x7C	Revival Herb	Bag Items pocket icon.png	Items pocket
+125	0x7D	Hard Stone	Bag Items pocket icon.png	Items pocket
+126	0x7E	Lucky Egg	Bag Items pocket icon.png	Items pocket
+127	0x7F	Card Key	Bag Key items pocket icon.png	Key items pocket
+128	0x80	Machine Part	Bag Key items pocket icon.png	Key items pocket
+129	0x81	Egg Ticket*	Bag Key items pocket icon.png	Key items pocket
+130	0x82	Lost Item	Bag Key items pocket icon.png	Key items pocket
+131	0x83	Stardust	Bag Items pocket icon.png	Items pocket
+132	0x84	Star Piece	Bag Items pocket icon.png	Items pocket
+133	0x85	Basement Key	Bag Key items pocket icon.png	Key items pocket
+134	0x86	Pass	Bag Key items pocket icon.png	Key items pocket
+135	0x87	Teru-sama	Bag Items pocket icon.png	Items pocket
+136	0x88	Teru-sama	Bag Items pocket icon.png	Items pocket
+137	0x89	Teru-sama	Bag Items pocket icon.png	Items pocket
+138	0x8A	Charcoal	Bag Items pocket icon.png	Items pocket
+139	0x8B	Berry Juice	Bag Items pocket icon.png	Items pocket
+140	0x8C	Scope Lens	Bag Items pocket icon.png	Items pocket
+141	0x8D	Teru-sama	Bag Items pocket icon.png	Items pocket
+142	0x8E	Teru-sama	Bag Items pocket icon.png	Items pocket
+143	0x8F	Metal Coat	Bag Items pocket icon.png	Items pocket
+144	0x90	Dragon Fang	Bag Items pocket icon.png	Items pocket
+145	0x91	Teru-sama	Bag Items pocket icon.png	Items pocket
+146	0x92	Leftovers	Bag Items pocket icon.png	Items pocket
+147	0x93	Teru-sama	Bag Items pocket icon.png	Items pocket
+148	0x94	Teru-sama	Bag Items pocket icon.png	Items pocket
+149	0x95	Teru-sama	Bag Items pocket icon.png	Items pocket
+150	0x96	MysteryBerry	Bag Items pocket icon.png	Items pocket
+151	0x97	Dragon Scale	Bag Items pocket icon.png	Items pocket
+152	0x98	Berserk Gene	Bag Items pocket icon.png	Items pocket
+153	0x99	Teru-sama	Bag Items pocket icon.png	Items pocket
+154	0x9A	Teru-sama	Bag Items pocket icon.png	Items pocket
+155	0x9B	Teru-sama	Bag Items pocket icon.png	Items pocket
+156	0x9C	Sacred Ash	Bag Items pocket icon.png	Items pocket
+157	0x9D	Heavy Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+158	0x9E	Flower Mail	Bag Items pocket icon.png	Items pocket
+159	0x9F	Level Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+160	0xA0	Lure Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+161	0xA1	Fast Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+162	0xA2	Teru-sama	Bag Items pocket icon.png	Items pocket
+163	0xA3	Light Ball	Bag Items pocket icon.png	Items pocket
+164	0xA4	Friend Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+165	0xA5	Moon Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+166	0xA6	Love Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+167	0xA7	Normal Box	Bag Items pocket icon.png	Items pocket
+168	0xA8	Gorgeous Box	Bag Items pocket icon.png	Items pocket
+169	0xA9	Sun Stone	Bag Items pocket icon.png	Items pocket
+170	0xAA	Polkadot Bow	Bag Items pocket icon.png	Items pocket
+171	0xAB	Teru-sama	Bag Items pocket icon.png	Items pocket
+172	0xAC	Up-Grade	Bag Items pocket icon.png	Items pocket
+173	0xAD	Berry	Bag Items pocket icon.png	Items pocket
+174	0xAE	Gold Berry	Bag Items pocket icon.png	Items pocket
+175	0xAF	SquirtBottle	Bag Key items pocket icon.png	Key items pocket
+176	0xB0	Teru-sama	Bag Items pocket icon.png	Items pocket
+177	0xB1	Park Ball	Bag Poké Balls pocket icon.png	Poké Balls pocket
+178	0xB2	Rainbow Wing	Bag Key items pocket icon.png	Key items pocket
+179	0xB3	Teru-sama	Bag Items pocket icon.png	Items pocket
+180	0xB4	Brick Piece	Bag Items pocket icon.png	Items pocket
+181	0xB5	Surf Mail	Bag Items pocket icon.png	Items pocket
+182	0xB6	Litebluemail	Bag Items pocket icon.png	Items pocket
+183	0xB7	Portraitmail	Bag Items pocket icon.png	Items pocket
+184	0xB8	Lovely Mail	Bag Items pocket icon.png	Items pocket
+185	0xB9	Eon Mail	Bag Items pocket icon.png	Items pocket
+186	0xBA	Morph Mail	Bag Items pocket icon.png	Items pocket
+187	0xBB	Bluesky Mail	Bag Items pocket icon.png	Items pocket
+188	0xBC	Music Mail	Bag Items pocket icon.png	Items pocket
+189	0xBD	Mirage Mail	Bag Items pocket icon.png	Items pocket
+190	0xBE	Teru-sama	Bag Items pocket icon.png	Items pocket
+191	0xBF	TM01	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+192	0xC0	TM02	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+193	0xC1	TM03	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+194	0xC2	TM04	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+195	0xC3	TM04	Bag Items pocket icon.png	Items pocket
+196	0xC4	TM05	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+197	0xC5	TM06	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+198	0xC6	TM07	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+199	0xC7	TM08	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+200	0xC8	TM09	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+201	0xC9	TM10	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+202	0xCA	TM11	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+203	0xCB	TM12	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+204	0xCC	TM13	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+205	0xCD	TM14	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+206	0xCE	TM15	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+207	0xCF	TM16	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+208	0xD0	TM17	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+209	0xD1	TM18	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+210	0xD2	TM19	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+211	0xD3	TM20	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+212	0xD4	TM21	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+213	0xD5	TM22	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+214	0xD6	TM23	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+215	0xD7	TM24	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+216	0xD8	TM25	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+217	0xD9	TM26	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+218	0xDA	TM27	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+219	0xDB	TM28	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+220	0xDC	TM28	Bag Items pocket icon.png	Items pocket
+221	0xDD	TM29	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+222	0xDE	TM30	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+223	0xDF	TM31	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+224	0xE0	TM32	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+225	0xE1	TM33	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+226	0xE2	TM34	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+227	0xE3	TM35	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+228	0xE4	TM36	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+229	0xE5	TM37	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+230	0xE6	TM38	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+231	0xE7	TM39	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+232	0xE8	TM40	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+233	0xE9	TM41	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+234	0xEA	TM42	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+235	0xEB	TM43	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+236	0xEC	TM44	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+237	0xED	TM45	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+238	0xEE	TM46	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+239	0xEF	TM47	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+240	0xF0	TM48	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+241	0xF1	TM49	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+242	0xF2	TM50	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+243	0xF3	HM01	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+244	0xF4	HM02	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+245	0xF5	HM03	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+246	0xF6	HM04	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+247	0xF7	HM05	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+248	0xF8	HM06	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+249	0xF9	HM07	Bag TMs and HMs pocket icon.png	TMs and HMs pocket
+250	0xFA	HM08	Bag Items pocket icon.png	Items pocket
+251	0xFB	HM09	Bag Items pocket icon.png	Items pocket
+252	0xFC	HM10	Bag Items pocket icon.png	Items pocket
+253	0xFD	HM11	Bag Items pocket icon.png	Items pocket
+254	0xFE	HM12	Bag Items pocket icon.png	Items pocket
+255	0xFF	Cancel	Bag Unknown pocket icon.png	Unknown pocket
