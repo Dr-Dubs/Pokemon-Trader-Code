@@ -36,6 +36,7 @@ Arduino:
 
 # Notes
 
-1. I have only tested the process with an Arduino Uno R4 WiFi. I believe other Arduinos should work, but I do not know for sure. 
+1. I have only tested the process with an Arduino Uno R4 WiFi. I believe other Arduinos should work, but I do not know for sure.
+2. I tested with Pokemon Silver. Everything should work for Gold, but for Crystal, I am not sure. I would test the other games, but I do not want to drop $200. 
 
 
